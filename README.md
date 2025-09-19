@@ -10,9 +10,13 @@
 
 <h3>Changing themes</h3>
 
-<img width="926" height="957" alt="image" src="https://github.com/user-attachments/assets/2370d157-3a22-45d2-ae00-c7a401161934" />
+<p align="center">
 
-<img width="926" height="957" alt="image" src="https://github.com/user-attachments/assets/b12ca3b2-a144-430f-aa20-699a32168b80" />
+  <img width="45%" height="957" alt="image" src="https://github.com/user-attachments/assets/2370d157-3a22-45d2-ae00-c7a401161934" />
+  
+  <img width="45%" height="957" alt="image" src="https://github.com/user-attachments/assets/b12ca3b2-a144-430f-aa20-699a32168b80" />
+
+</p>
 
 <h3>Updating products</h3>
 <img width="938" height="508" alt="image" src="https://github.com/user-attachments/assets/d405468f-dd25-4fc1-8c65-7fb8e608686a" />
